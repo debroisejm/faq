@@ -1,0 +1,2 @@
+# faq
+application faq
